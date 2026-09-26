@@ -1,6 +1,6 @@
 # DOOM SDL2 (GPL-2.0-only) — Modernized & Enhanced
 
-Modernized, single-target build of the original Linux DOOM 1.10 sources, plus ongoing enhancements. Video, audio, input, and networking run on SDL2 and SDL2_net; music playback ships with bundled libADLMIDI/libOPNMIDI via CMake FetchContent. The top-level CMakeLists.txt is the source of truth.
+Modernized with AI, single-target build of the original Linux DOOM 1.10 sources, plus ongoing enhancements. Video, audio, input, and networking run on SDL2 and SDL2_net; music playback ships with bundled libADLMIDI/libOPNMIDI via CMake FetchContent. The top-level CMakeLists.txt is the source of truth.
 
 If you remember the 90s Linux port: this keeps the gameplay, but drops the period-correct plumbing. No X11 renderer fork, no external `sndserver`, no BSD sockets sprawl. It is DOOM, but built and run like a modern Linux game.
 
