@@ -1,6 +1,6 @@
 # DOOM SDL2 (GPL-2.0-only) — Vanilla 1.10 Gameplay
 
-Modernized, single-target build of the original Linux DOOM 1.10 sources, while preserving the **original gameplay/feature set** (no enhancements). Video, audio, input, and networking run on SDL2 and SDL2_net; music playback ships with bundled libADLMIDI/libOPNMIDI via CMake FetchContent. The top-level CMakeLists.txt is the source of truth.
+Modernized with AI, single-target build of the original Linux DOOM 1.10 sources, while preserving the **original gameplay/feature set** (no enhancements). Video, audio, input, and networking run on SDL2 and SDL2_net; music playback ships with bundled libADLMIDI/libOPNMIDI via CMake FetchContent. The top-level CMakeLists.txt is the source of truth.
 
 ## Features
 - SDL2 renderer with automatic 4:3 logical size (no widescreen/stretch modes).
